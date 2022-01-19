@@ -7,7 +7,7 @@ public class HashmapExample {
     public static void main(String[] args) {
         Map<Integer,String> map = new HashMap<>();
 
-        map.put(433, "Petr Petrov");
+        map.put(433, "Петр Петров");
         map.put(null, null);
 
         System.out.println(map);
