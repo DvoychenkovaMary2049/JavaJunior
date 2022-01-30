@@ -46,10 +46,10 @@ public class Main3 {
 //        System.out.println(b);
 
 
-//        Set <Integer> intersectionWithoutDuplicate = utils.intersectionWithoutDuplicate(a,b);
-//        System.out.println(intersectionWithoutDuplicate);
-//        System.out.println(a);
-//        System.out.println(b);
+        Set <Integer> intersectionWithoutDuplicate = utils.intersectionWithoutDuplicate(a,b);
+        System.out.println(intersectionWithoutDuplicate);
+        System.out.println(a);
+        System.out.println(b);
 //
 //        Collection <Integer> difference = utils.difference(a,b);
 //        System.out.println(difference);
